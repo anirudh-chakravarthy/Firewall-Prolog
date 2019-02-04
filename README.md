@@ -90,7 +90,7 @@ Here are a few sample inputs:
 
 The database.pl file stores cases for which the packets are to be rejected & dropped.
 
-Rejecting packets:
+### Rejecting packets:
 
 If one wants to reject a packet one must enter the packet to be rejected in the database file in the format specified below:
 
